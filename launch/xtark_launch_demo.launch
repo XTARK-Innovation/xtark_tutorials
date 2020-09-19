@@ -1,0 +1,5 @@
+<launch>
+
+	<include file="$(find xtark_tutorials)/launch/xtark_beginner.launch"/>
+
+</launch>
